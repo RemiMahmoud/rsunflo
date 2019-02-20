@@ -677,6 +677,8 @@ evaluate_plot2 <- function(data, formula, color, scale = "free", size_label = 4,
 
 
 
+
+
 # residuals evaluation graphs
 #' @export evaluate_residuals
 evaluate_residuals <- function(data, formula, color, scale="free", size_label=4, ...) {
